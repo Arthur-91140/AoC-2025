@@ -1,0 +1,26 @@
+Range            3-          23:    2 invalid IDs, sum =              33
+Range         1054-        2693:   16 invalid IDs, sum =           29896
+Range   2818561476-  2818661701:    1 invalid IDs, sum =      2818628186
+Range     21177468-    21246892:    7 invalid IDs, sum =       148484847
+Range           40-         114:    6 invalid IDs, sum =             429
+Range       782642-      950030:  168 invalid IDs, sum =       145549404
+Range      9936250-    10074071:    8 invalid IDs, sum =        80288028
+Range     77648376-    77727819:    8 invalid IDs, sum =       621542148
+Range         2954-       10213:   70 invalid IDs, sum =          456015
+Range     49589608-    49781516:   19 invalid IDs, sum =       944014392
+Range   7877419320-  7877566799:    1 invalid IDs, sum =      7877478774
+Range       953065-     1022091:   47 invalid IDs, sum =        45917872
+Range       104188-      122245:   18 invalid IDs, sum =         2045043
+Range           25-          39:    1 invalid IDs, sum =              33
+Range       125490-      144195:   19 invalid IDs, sum =         2567565
+Range       341512-      578341:  236 invalid IDs, sum =       108550442
+Range       262197-      334859:   73 invalid IDs, sum =        21775754
+Range       653264-      676258:   23 invalid IDs, sum =        15287272
+Range       167882-      252124:   84 invalid IDs, sum =        17615598
+
+======================================================================
+Ranges with invalid IDs: 19
+Total sum: 12850231731
+======================================================================
+
+Final Answer: 12850231731
